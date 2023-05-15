@@ -14,3 +14,5 @@ if b==b[::-1]:
     print(b + ' is a palindrome')
 else:
     print(b + ' is not a palindrome')
+
+print("madhu")
