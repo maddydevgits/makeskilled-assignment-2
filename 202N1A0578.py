@@ -1,10 +1,6 @@
-a='radar'
-b='madhu'
-
-print(type(a),type(b))
-
-# Check - Palindrome 
-
-print(a==a[::-1]) # 'radar' == 'radar' - True
-print(b==b[::-1]) # 'madhu' == 'uhdam' - False
-print("madhu")
+if __name__ == '__main__':
+   a = int(input())
+   b = int(input())
+   print(a+b)
+   print(a-b)
+   prunt(a*b)
