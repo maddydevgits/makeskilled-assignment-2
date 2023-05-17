@@ -1,0 +1,5 @@
+val1=5
+val2=10
+#using the addition operator 
+res=val1+val2
+print(res)
