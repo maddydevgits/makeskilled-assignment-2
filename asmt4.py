@@ -8,4 +8,4 @@ except ValueError:
 except ZeroDivisionError:
   print('please enter non zero values')
 finally: 
-    print('exceuted al the times')
+    print('exceuted all the times')
